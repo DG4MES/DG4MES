@@ -1,11 +1,15 @@
-# ¡Hi! im DG4MES 👋
+# ¡Hola! Bienvenidos a mi repositorio 👋
 
 ## about me:
-Hi, I'm someone who wants to learn as much as I can about web technologies since I find them very interesting and I hope one day to be able to create great projects on my own
+Hola, soy alguien que quiere aprender todo lo que pueda sobre tecnologías web ya que las encuentro muy interesantes y espero algún día poder crear grandes proyectos por mi cuenta  
+## entre mis hobbies estan:  
+•Jugar videojuegos🎮  
+•Escuchar Música🎵  
+•Leer Libros📚  
+•Navegar por internet🌐
 
 
-
-### 🛠 technologies and tools:
+### 🛠 tecnologías y herramientas:
 •👨‍💻   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
