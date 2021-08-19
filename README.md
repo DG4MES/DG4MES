@@ -1,6 +1,6 @@
 # ¡Hola! Bienvenidos a mi repositorio 👋
 
-## about me:
+## sobre mi:
 Hola, soy alguien que quiere aprender todo lo que pueda sobre tecnologías web ya que las encuentro muy interesantes y espero algún día poder crear grandes proyectos por mi cuenta  
 ## entre mis hobbies estan:  
 •Jugar videojuegos🎮  
